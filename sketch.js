@@ -28,7 +28,7 @@ car.shapeColor=colour(255,0,0);
            }
 
            if(deformation<180 && deformation>100){
-            car.shapeColor=colour(0,0,255);
+            car.shapeColor=colour(230,230,0);
                  }
 
     }
