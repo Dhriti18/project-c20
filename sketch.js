@@ -4,7 +4,7 @@
    function setup() {
   createCanvas(900,400);
 
-  wall=createSprite(880,200,60,height/2);
+  wall=createSprite(860,200,60,height/2);
   wall.shapeColour="grey";
   car=createSprite(10,200,40,40);
   car.shapeColor="white";
